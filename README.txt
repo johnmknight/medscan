@@ -29,4 +29,4 @@
 //  LICENSE:
 //  This mod is released under the GNU General Public License version 3 (GPLv3)
 //
-//  The MECO Space Tweep Society logo is used with permission and is copyright Jen Sheer / Space Tweep Society
+//  The MECO Space Tweep Society logo is used with permission and is copyright Jen Scheer / Space Tweep Society
